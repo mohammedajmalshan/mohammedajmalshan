@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://next-portfolio-ten-amber.vercel.app/)
 
-- 👯 I’m looking to collaborate on [Netflix Clone](https://netflix-clone-uplr.onrender.com/)
-
-- 🤝 I’m looking for help with [Product Store](https://product-store-1y5f.onrender.com/)
+- 🌱 I’m currently learning **Next.js, Typescript, React Native**
 
 - 👨‍💻 All of my projects are available at [https://next-portfolio-ten-amber.vercel.app/](https://next-portfolio-ten-amber.vercel.app/)
 
