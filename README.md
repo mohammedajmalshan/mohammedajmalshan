@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ajmal Shan</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://next-portfolio-ten-amber.vercel.app/)
+- [Portfolio] 🔭 (https://next-portfolio-ten-amber.vercel.app/)
 
-- 👯 I’m looking to collaborate on [Netflix Clone](https://netflix-clone-uplr.onrender.com/)
+- [Netflix Clone](https://netflix-clone-uplr.onrender.com/)
 
-- 🤝 I’m looking for help with [Product Store](https://product-store-1y5f.onrender.com/)
+- [Product Store](https://product-store-1y5f.onrender.com/)
 
 - 💬 Ask me about **react, next, typescript, react native**
 
