@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://next-portfolio-ten-amber.vercel.app/MohammedAjmalShanCV.pdf](https://next-portfolio-ten-amber.vercel.app/MohammedAjmalShanCV.pdf)
 
-- ⚡ Fun fact **I don't know Swimming :)**
+- ⚡ Fun fact **I don't know how to swim :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
