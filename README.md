@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ajmal Shan</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- [Portfolio] 🔭 (https://next-portfolio-ten-amber.vercel.app/)
+- 🔭 I’m currently working on [Portfolio](https://next-portfolio-ten-amber.vercel.app/)
 
-- [Netflix Clone](https://netflix-clone-uplr.onrender.com/)
+- 👯 I’m looking to collaborate on [Netflix Clone](https://netflix-clone-uplr.onrender.com/)
 
-- [Product Store](https://product-store-1y5f.onrender.com/)
+- 🤝 I’m looking for help with [Product Store](https://product-store-1y5f.onrender.com/)
+
+- 👨‍💻 All of my projects are available at [https://next-portfolio-ten-amber.vercel.app/](https://next-portfolio-ten-amber.vercel.app/)
 
 - 💬 Ask me about **react, next, typescript, react native**
 
@@ -13,8 +15,11 @@
 
 - 📄 Know about my experiences [https://next-portfolio-ten-amber.vercel.app/MohammedAjmalShanCV.pdf](https://next-portfolio-ten-amber.vercel.app/MohammedAjmalShanCV.pdf)
 
+- ⚡ Fun fact **I don't know how to swim :)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mohammedajmalshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohammedajmalshan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
